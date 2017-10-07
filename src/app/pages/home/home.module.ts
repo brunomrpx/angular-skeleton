@@ -1,9 +1,8 @@
 import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
 
-import { routes } from 'pages/home/home.route';
-
-import { HomeComponent } from 'pages/home/home.component';
+import { routes } from './home.route';
+import { HomeComponent } from './home.component';
 
 @NgModule({
   imports: [
