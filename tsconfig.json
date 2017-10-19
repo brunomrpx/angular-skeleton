@@ -9,7 +9,7 @@
     "experimentalDecorators": true,
     "noUnusedLocals": true,
     "target": "es5",
-    "baseUrl": ".",
+    "baseUrl": "",
     "typeRoots": [
       "node_modules/@types"
     ],
